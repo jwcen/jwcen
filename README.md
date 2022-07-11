@@ -1,5 +1,5 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=jwcen.jwcen) ![](https://komarev.com/ghpvc/?username=jwcen&&style=flat-square)
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="290" />
 
 
 <p style="font-size:28px"><strong>Basic Information</strong></p>
