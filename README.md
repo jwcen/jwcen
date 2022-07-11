@@ -6,8 +6,8 @@
 
 <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp;&nbsp;Nickname: jayvee  
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp;&nbsp;School: Beibu Gulf University  
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp;&nbsp;Major: Master of Computer Technology  
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: cscenjw@gmail.com
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Major: Master of Computer Technology  
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp;&nbsp;Email: cscenjw@gmail.com
 <br />
 
 
