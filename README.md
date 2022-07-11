@@ -1,16 +1,40 @@
-# github-profile-summary-cards-example
+![](https://visitor-badge.glitch.me/badge?page_id=jwcen.jwcen) ![](https://komarev.com/ghpvc/?username=jwcen&&style=flat-square)
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-:star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Toturial) ( Recommendation ) :star:
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
+<p style="font-size:28px"><strong>Basic Information</strong></p>
 
-```To create your profile README you need to name the repo as your username```
+<img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp;&nbsp;Nickname: jayvee  
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp;&nbsp;School: Beibu Gulf University  
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp;&nbsp;Major: Master of Computer Technology  
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: cscenjw@gmail.com
+<br />
 
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p style="font-size:28px"><strong>Awards</strong></p>
 
-[More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+- 2022第三届字节跳动后端青训营搜索组：8th 天马行空奖
+
+
+<p style="font-size:28px"><strong>Recently</strong></p>
+
+- [仿云盘项目]()
+
+
+<p style="font-size:28px"><strong>Courses</strong></p>
+
+- [MIT 6.824](https://github.com/mooleetzi#mit-6824)
+  
+<p style="font-size:28px"><strong>📈My github stats</strong></p>
+
+
+[![](https://raw.githubusercontent.com/jwcen/jwcen/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/jwcen/jwcen/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/jwcen/jwcen/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=jwcen&hide_border=true&layout=compact&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+
+<br/>
+
+[More Info](https://github.com/jwcen/)
