@@ -18,12 +18,13 @@
 
 <p style="font-size:28px"><strong>Recently</strong></p>
 
-- [仿云盘项目](https://github.com/jwcen/FileStorageDisk)
+- [基于Go语言的模拟百度云盘项目](https://github.com/jwcen/FileStorageDisk)
+- [基于Go语言的备忘录项目](https://github.com/jwcen/MyTodoList)
 
 
-<p style="font-size:28px"><strong>Courses</strong></p>
+<p style="font-size:28px"><strong>Plans</strong></p>
 
-- [MIT 6.824](https://github.com/mooleetzi#mit-6824)
+- *[] [MIT 6.824](https://github.com/mooleetzi#mit-6824)
   
 <p style="font-size:28px"><strong>📈My github stats</strong></p>
 
