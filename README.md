@@ -24,7 +24,7 @@
 
 <p style="font-size:28px"><strong>Plans</strong></p>
 
-- *[] [MIT 6.824](https://github.com/mooleetzi#mit-6824)
+- *[ ] [MIT 6.824](https://github.com/mooleetzi#mit-6824)
   
 <p style="font-size:28px"><strong>📈My github stats</strong></p>
 
