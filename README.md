@@ -18,8 +18,7 @@
 
 <p style="font-size:28px"><strong>Recently</strong></p>
 
-- [基于Go语言的模拟百度云盘项目](https://github.com/jwcen/FileStorageDisk)
-- [基于Go语言的备忘录项目](https://github.com/jwcen/MyTodoList)
+
 
 
 <p style="font-size:28px"><strong>Plans</strong></p>
