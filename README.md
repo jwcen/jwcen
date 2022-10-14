@@ -1,8 +1,10 @@
+
 ![](https://visitor-badge.glitch.me/badge?page_id=jwcen.jwcen) ![](https://komarev.com/ghpvc/?username=jwcen&&style=flat-square)
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="290" />
+
+<!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="290" /> -->
 
 
-<p style="font-size:28px"><strong>Basic Information</strong></p>
+## Basic Information
 
 <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp;&nbsp;Nickname: jayvee  
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp;&nbsp;School: South China Normal University  
@@ -11,21 +13,20 @@
 <br />
 
 
-<p style="font-size:28px"><strong>Awards</strong></p>
+## Awards</strong></p>
 
 - 2022第三届字节跳动后端青训营搜索组：8th 天马行空奖
 
 
-<p style="font-size:28px"><strong>Recently</strong></p>
-
+## Recently
 busy...
 
 
-<p style="font-size:28px"><strong>Plans</strong></p>
-
-- *[ ] [MIT 6.824](https://github.com/mooleetzi#mit-6824)
+## Plans
+- *[ ] 入门分布式
+<!-- - *[ ] [MIT 6.824](https://github.com/mooleetzi#mit-6824) -->
   
-<p style="font-size:28px"><strong>📈My github stats</strong></p>
+## 📈My github stats
 
 
 [![](https://raw.githubusercontent.com/jwcen/jwcen/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/jwcen/)
