@@ -15,7 +15,7 @@
 
 ## Awards</strong></p>
 
-- 2022第三届字节跳动后端青训营搜索组：8th 天马行空奖
+- 2022第三届字节跳动后端青训营：8th 天马行空奖
 
 
 ## Recently
@@ -23,7 +23,7 @@ busy...
 
 
 ## Plans
-<!-- - *[ ] 入门分布式 -->
+- *[ ] 微服务
 <!-- - *[ ] [MIT 6.824](https://github.com/mooleetzi#mit-6824) -->
   
 ## 📈My github stats
