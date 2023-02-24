@@ -12,25 +12,25 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp;&nbsp;Email: jvvcen@gmail.com
 <br />
 
-
+<!-- 
 ## Awards</strong></p>
 
 - 2022第三届字节跳动后端青训营：8th 天马行空奖
 
 
 ## Recently
-busy...
+busy... -->
 
-
+<!-- 
 ## Plans
-- *[ ] 找实习
+- *[ ] 找实习 -->
 <!-- - *[ ] [MIT 6.824](https://github.com/mooleetzi#mit-6824) -->
   
-## 📈My github stats
 
+<!-- ## 📈My github stats
 
-[![](https://raw.githubusercontent.com/jwcen/jwcen/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/jwcen/)
-[![](https://github-readme-stats.vercel.app/api?username=jwcen&show_icons=true&count_private=true&hide_border=true&theme=dark)](https://github.com/jwcen/)
+ [![](https://raw.githubusercontent.com/jwcen/jwcen/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/jwcen/)
+[![](https://github-readme-stats.vercel.app/api?username=jwcen&show_icons=true&count_private=true&hide_border=true&theme=dark)](https://github.com/jwcen/) -->
 <br/>
 <!-- [![](https://github-readme-stats.vercel.app/api/top-langs/?username=jwcen&hide_border=true&layout=compact&theme=dark)](https://github.com/jwcen/) -->
 <!-- [![](https://raw.githubusercontent.com/jwcen/jwcen/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/jwcen/)
