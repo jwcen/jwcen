@@ -27,15 +27,20 @@ busy... -->
 <!-- - *[ ] [MIT 6.824](https://github.com/mooleetzi#mit-6824) -->
   
 
-<!-- ## 📈My github stats
+
 
  [![](https://raw.githubusercontent.com/jwcen/jwcen/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/jwcen/)
-[![](https://github-readme-stats.vercel.app/api?username=jwcen&show_icons=true&count_private=true&hide_border=true&theme=dark)](https://github.com/jwcen/) -->
-<br/>
-<!-- [![](https://github-readme-stats.vercel.app/api/top-langs/?username=jwcen&hide_border=true&layout=compact&theme=dark)](https://github.com/jwcen/) -->
-<!-- [![](https://raw.githubusercontent.com/jwcen/jwcen/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/jwcen/)
-[![](https://raw.githubusercontent.com/jwcen/jwcen/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/jwcen/)  -->
 
+<!--
+[![](https://github-readme-stats.vercel.app/api?username=jwcen&show_icons=true&count_private=true&hide_border=true&theme=dark)](https://github.com/jwcen/) 
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=jwcen&hide_border=true&layout=compact&theme=dark)](https://github.com/jwcen/)  
+
+[![](https://raw.githubusercontent.com/jwcen/jwcen/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/jwcen/)  
+
+[![](https://raw.githubusercontent.com/jwcen/jwcen/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/jwcen/) 
+
+-->
 
 
 
