@@ -59,7 +59,8 @@
 
 <hr>
 <!-- profile-3d-contrib 3D贡献图-->
-<img src="https://cdn.jsdelivr.net/gh/jwcen/jwcen/profile-3d-contrib/profile-night-rainbow.svg" />
+<!-- <img src="https://cdn.jsdelivr.net/gh/jwcen/jwcen/profile-3d-contrib/profile-night-rainbow.svg" /> -->
+![](./profile-3d-contrib/profile-night-view.svg)
 
 
 
