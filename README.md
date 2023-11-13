@@ -57,10 +57,10 @@
   - 工作岗位：Python 数据开发工程师
   - 工作内容：AMiner学术科技情报大数据挖掘与服务系统
 
-<hr>
+## 3D Contribution
 <!-- profile-3d-contrib 3D贡献图-->
-<!-- <img src="https://cdn.jsdelivr.net/gh/jwcen/jwcen/profile-3d-contrib/profile-night-rainbow.svg" /> -->
-![](./profile-3d-contrib/profile-night-view.svg)
+<img src="https://raw.githubusercontent.com/jwcen/jwcen/master/profile-3d-contrib/profile-night-rainbow.svg" />
+<!-- ![](./profile-3d-contrib/profile-night-view.svg) -->
 
 
 
