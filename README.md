@@ -108,6 +108,13 @@
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 -->
+## -
+<div>
+<span>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwcen&layout=compact&langs_count=6" />
+</span>
+</div>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jwcen.jwcen) ![](https://komarev.com/ghpvc/?username=jwcen&&style=flat-square)
 
