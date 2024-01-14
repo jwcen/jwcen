@@ -36,28 +36,28 @@
 
 <img align="right" width="88" src="http://www.kuaipng.com/Uploads/pic/w/2023/07-06/143254/water_143254_698_698_.png" />
 
-- [网易](https://www.netease.com/) &emsp; 📌 2023.05 —— 2023.09
+- [网易] 📌 2023.05 —— 2023.09
   
   - 工作岗位：服务端开发工程师
   - 工作内容：大数据可视化分析平台
 
 <img align="right" width="88" src="https://image.16pic.com/00/93/52/16pic_9352827_s.png" />
 
-- [学益购网络](https://www.nio.cn/) &emsp; 📌 2023.02 —— 2023.05
+- [学益购网络] 📌 2023.02 —— 2023.05
   
   - 工作岗位：后端开发工程师
   - 工作内容：知识变现平台
  
 <img align="right" width="88" src="https://www.mg21.com/wp-content/uploads/2019/09/ByteDance.png" />
 
-- [第三届字节跳动后端青训营](https://www.bytedance.com/) &emsp; 📌 2022.05 —— 2022.07
+- [第三届字节跳动后端青训营] 📌 2022.05 —— 2022.07
 <br>
 <br>
 
 
  <img align="right" width="88" src="http://1255881664.vod2.myqcloud.com/6a0cd388vodbj1255881664/7b97ce1d3270835009240537095/uSfDwh6ZpB0A.png" />
 
-- [北京智谱华章科技](https://www.zhipuai.cn/) &emsp; 📌 2021.05 —— 2021.08
+- [北京智谱华章科技] 📌 2021.05 —— 2021.08
   
   - 工作岗位：Python 数据开发工程师
   - 工作内容：AMiner学术科技情报大数据挖掘与服务系统
