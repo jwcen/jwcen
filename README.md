@@ -51,6 +51,7 @@
 <img align="right" width="88" src="https://www.mg21.com/wp-content/uploads/2019/09/ByteDance.png" />
 
 - [第三届字节跳动后端青训营] 📌 2022.05 —— 2022.07
+  - 搜索引擎组 8th 
 <br>
 <br>
 
