@@ -38,15 +38,8 @@
 
 - [网易] 📌 2023.05 —— 2023.09
   
-  - 工作岗位：服务端开发工程师
+  - 工作岗位：服务端开发工程师(intern)
   - 工作内容：大数据可视化分析平台
-
-<!--<img align="right" width="88" src="https://image.16pic.com/00/93/52/16pic_9352827_s.png" />
-
-- [学益购网络] 📌 2023.02 —— 2023.05
-  
-  - 工作岗位：后端开发工程师
-  - 工作内容：知识变现平台-->
  
 <img align="right" width="88" src="https://www.mg21.com/wp-content/uploads/2019/09/ByteDance.png" />
 
