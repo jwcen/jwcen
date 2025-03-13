@@ -28,10 +28,10 @@
 
 <div>
 <span>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwcen&layout=compact&langs_count=6" />
+  <!--<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwcen&layout=compact&langs_count=6" /> -->
 </span>
 </div>
-
+<!--
 ## 🏢 Intern Experience
 
 <img align="right" width="88" src="http://www.kuaipng.com/Uploads/pic/w/2023/07-06/143254/water_143254_698_698_.png" />
@@ -60,7 +60,7 @@
 <!-- profile-3d-contrib 3D贡献图-->
 <img src="https://raw.githubusercontent.com/jwcen/jwcen/master/profile-3d-contrib/profile-night-rainbow.svg" />
 <!-- ![](./profile-3d-contrib/profile-night-view.svg) -->
-
+-->
 
 
 <!--💪 正在学习
